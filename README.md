@@ -1,4 +1,4 @@
-# BMEVIMIAC10 Mesterséges intelligencia 1. házi feladat
+# BMEVIMIAC10 Mesterséges intelligencia 2. házi feladat
 
 A döntési fák (decision tree) talán az emberi gondolkodáshoz legközelebb álló, intuitív osztályozók
 (classifier). Általában relatíve kevés adattal is hatékonyan taníthatóak, és a struktúrájuk emberi
@@ -15,6 +15,8 @@ közben.3
 ) Minden adatot egész számokra kerekítettünk, így az előzőekben leírt algoritmussal létre
 lehet hozni egy döntési fát.
 A feladat megoldásához a Moodle rendszerben elérhet néhány állományt:
+
+## Forrás
 
 1. solution.py: a megoldás minimális vázát tartalmazó állomány. A házi feladat megoldása
 során célszerű ezt az állományt bővíteni.
